@@ -26,11 +26,11 @@ export const games: Game[] = [
       { source: LinkImageSource.Steam, url: "https://steamcommunity.com/sharedfiles/filedetails/?id=3348704032" },
     ],
     media: [
-      { source: "/images/games/KOTH_CONCRETE/Screenshot_1.jpg", type: MediaType.Image },
+      { source: "/images/games/KOTH_CONCRETE/Screenshot_1.png", type: MediaType.Image },
       { source: "https://www.youtube.com/embed/oWU4NZoo3LQ", type: MediaType.YouTube },
-      { source: "/images/games/KOTH_CONCRETE/Screenshot_2.jpg", type: MediaType.Image },
-      { source: "/images/games/KOTH_CONCRETE/Screenshot_3.jpg", type: MediaType.Image },
-      { source: "/images/games/KOTH_CONCRETE/Screenshot_4.jpg", type: MediaType.Image },
+      { source: "/images/games/KOTH_CONCRETE/Screenshot_2.png", type: MediaType.Image },
+      { source: "/images/games/KOTH_CONCRETE/Screenshot_3.png", type: MediaType.Image },
+      { source: "/images/games/KOTH_CONCRETE/Screenshot_4.png", type: MediaType.Image },
     ],
   },
   {
